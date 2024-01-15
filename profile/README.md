@@ -22,16 +22,14 @@
 
 **❓ 기획 배경**
 
-<img width="728" alt="KakaoTalk_20240111_103942545" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/2e3610fd-9660-4fac-a82f-64c7deb4528b">
+<p align="center"><img width="728" alt="KakaoTalk_20240111_103942545" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/2e3610fd-9660-4fac-a82f-64c7deb4528b"></p>
 
-<img width="729" alt="KakaoTalk_20240111_104007711" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/7d7406e8-0f27-4d47-951d-238b41ca9237">
+<p align="center"><img width="729" alt="KakaoTalk_20240111_104007711" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/7d7406e8-0f27-4d47-951d-238b41ca9237"></p>
 
 
-**"오운완"은 건강해지고 싶은 모든 운동 덕후들의** 
-
-**그들을 위한, 그들에 의한 단 하나뿐인 헬스케어 커뮤니티 및 쇼핑 사이트 입니다.**
-
-**그들은 이곳에서 트렌디한 웰빙 용품을 구매하고, 안 쓰는 용품들을 사람들과 나누고, 각자의 고민과 뿌듯함을 공유합니다.**
+<p align="center"><strong>"오운완"은 건강해지고 싶은 모든 운동 덕후들의</strong></p>
+<p align="center"><strong>그들을 위한, 그들에 의한 단 하나뿐인 헬스케어 커뮤니티 및 쇼핑 사이트 입니다.</strong></p>
+<p align="center"><strong>그들은 이곳에서 트렌디한 웰빙 용품을 구매하고, 안 쓰는 용품들을 사람들과 나누고, 각자의 고민과 뿌듯함을 공유합니다.</strong></p>
 
 
 ## 🤝 협업 과정
@@ -41,34 +39,19 @@
 **Ground Rule = Growth Rule**
 
 > Rule : 모든 원칙은 우리의 성장과 공동의 목표 달성을 위해 존재합니다.
-
-![image](https://user-images.githubusercontent.com/110509654/227481240-c88e37ea-ec5f-4519-beee-e207f09407ed.png)
+<p align="center"><img src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/410d8398-9ad5-4d8f-9ee8-0ae0a4eded7f" width="1044"/></p>
 
 * 스크럼 : 매일 노션 양식에 작성
-* 코드리뷰 : 주 2회 (요일 미정) / 개발기간은 백엔드, 프론트 파트별로 진행
-* 회의시간 : 월~금 / 일요일 오후 10시
-* 특이사항 : 매주 토요일은 회의 X, 텍스트로 작업내용 공유
+* 코드리뷰 : 월~금 17:00 ~ 18:00
+* 회의시간 : 월~금 18:00 ~ 19:00
+* 특이사항 : 대면이 불가능 할 경우는 gather town에 접속해서 화상회의 진행
 
-**💼 Work Time**
 
-![image](https://user-images.githubusercontent.com/110509654/227482173-8cc566b7-769c-42dc-a929-349d9285ed33.png)
-
-**✔ Daily Scrum : 정규 스크럼 주 6일 + @**
-
-![image](https://user-images.githubusercontent.com/110509654/227482417-dfe37a09-e086-4723-8cda-ac249d7affe9.png)
-
-**👨‍👨‍👧‍👧 Google Meet - 미팅: Daily Scrum**
-
-![image](https://user-images.githubusercontent.com/110509654/227482802-020a34d5-0cc9-41ac-aac3-0028a17d7285.png)
+**✔ Daily Scrum**
+<p align="center"><img width="1044" alt="image" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/c414642c-b3bb-4b44-94f8-4158ffd66d5f"></p>
 
 **🤼‍♀️ Gather - 협업공간: 수시 회의/협업**
-
-![image](https://user-images.githubusercontent.com/110509654/227482872-52d26f02-2fe0-43a9-9cfd-c61d485a8f27.png)
-
-**🔑 Git 전략: Branch & PR**
-
-![image](https://user-images.githubusercontent.com/110509654/227488630-8fd1bcd7-9e4c-492c-9856-d6ee53d21443.png)
-
+<p align="center"><img heigth="300" width="600" alt="image" src="https://github.com/OhJoGaCheckOhJoo/.github/assets/113325061/a796bd93-70d6-4358-a0bf-c144d2d2582c"></p>
 
 **1. Repository / Branch Manangement**
 * 본 프로젝트는 메인 + 기능별 8개, 총 9개 모듈로 구성. 프론트 엔드/백엔드 서버 를 분리하여 레포지터리 구성.
